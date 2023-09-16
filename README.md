@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiulalamantar&label=Profile%20views&color=0e75b6&style=flat" alt="rafiulalamantar" /> </p>
 
-- 🌱 I’m currently learning **Playwright**
+- 🌱 I’m currently working on **Selenium,Appium**
 
 - 💬 Ask me about **Selenium,Appium**
 
